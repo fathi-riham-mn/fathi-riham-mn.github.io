@@ -1,9 +1,8 @@
-title: devlopr
-subtitle: A Portfolio Jekyll Theme Built for Developers
+title: Fathima Riham MN 
+subtitle: SOFTWARE ENGINEERING UNDERGRAUADE
 description: >- # this means to ignore newlines until "baseurl:"
-  devlopr-jekyll is a beautiful Jekyll Theme Built For Developers, which is optimized for speed and readability.
-
-url: "" # the base hostname & protocol for your site, e.g. https://example.github.io
+  As an IT professional, I bring a strong passion for the Software & IT industry and a commitment to continuous learning and improvement.
+url: "https://fathi-riham-mn.github.io" # the base hostname & protocol for your site, e.g. https://example.github.io
 baseurl: "" # the subpath of your site, e.g. /blog
 
 # Navigation
@@ -25,12 +24,12 @@ urls:
 # Edit Author details (For multi authors check _data/authors.yml)
 
 author_logo: profile.png
-author: John Doe
-author_bio: Hi, my name is John Doe. I built this site using devlopr-jekyll :D
-author_email: "mail@sujaykundu.com"
-author_location: India
-author_website_url: "https://sujaykundu.com"
-typewrite-text: devlopr is a jekyll framework built for developers. You can edit this in _config.yml file
+author: Fathima Riham MN
+author_bio: Hello!👋I'm Fathima Riham MN, a design-minded front-end software engineer focused on building beautiful interfaces & experiences.
+author_email: "nazeerreeha@gmail.com"
+author_location: Sri Lanka 🇱🇰
+author_website_url: ""
+typewrite-text: As an IT professional, I bring a strong passion for the Software & IT industry and a commitment to continuous learning and improvement.
 hero_cover_img: sample_cover.jpg # replace this for changing homepage cover (eg. try cover.jpeg). Image should be in /assets/img
 
 # Experiences
@@ -50,11 +49,18 @@ author_work_experiences:
 
 # Education
 author_education_details:
-              - college_logo: mit.png
-                college_name: MIT
-                college_url: https://mit.org
-                college_degree: CS Engineer
-                description: Bachelor of Technology
+              - college_logo: ousl.jpg
+                college_name: THE OPEN UNIVERSITY OF SRI LANKA
+                college_url: https://ou.ac.lk/
+                college_degree: Bachelor of Software Engineering Honours
+                description: Information and Communications Technology
+                visibility: true
+
+              - college_logo: sliate.jpg
+                college_name: Sri Lanka Institute of Advanced Technological Education
+                college_url: http://www.sliate.ac.lk/
+                college_degree: High National Diploma in IT (HNDIT)
+                description: Information Systems
                 visibility: true
 
 # Projects
