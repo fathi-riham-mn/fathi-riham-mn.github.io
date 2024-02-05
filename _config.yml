@@ -17,6 +17,8 @@ urls:
       url: /gallery
     - text: Shop
       url : /shop
+    - text: What I Do
+      url: /what_i_do
     - text: Contact
       url : /contact
 
