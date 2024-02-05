@@ -1,7 +1,7 @@
 ---
-title: Styleguide
+title: What I do
 layout: page
-permalink: /styleguide/
+permalink: /whatido/
 ---
 
 
