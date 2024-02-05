@@ -31,7 +31,7 @@ author_bio: Hello!👋I'm Fathima Riham MN, a design-minded front-end software e
 author_email: "nazeerreeha@gmail.com"
 author_location: Sri Lanka 🇱🇰
 author_website_url: ""
-typewrite-text: As an IT professional, I bring a strong passion for the Software & IT industry and a commitment to continuous learning and improvement.
+typewrite-text: As an IT professional,a design-minded front-end software engineer focused on building beautiful interfaces & experiences. #I bring a strong passion for the Software & IT industry and a commitment to continuous learning and improvement.
 hero_cover_img: sample_cover.jpg # replace this for changing homepage cover (eg. try cover.jpeg). Image should be in /assets/img
 
 
@@ -87,7 +87,7 @@ wakatime_username: rihamnazeer99
 
 # contact form - (choose formspress or getform)
 # getform_endpoint: 83b703c3-9e47-4df4-ac55-e24d7eb02abc
-formspree_email: johndoe@gmail.com
+formspree_email: nazeerreeha@gmail.com
 
 # releases - widget can be (sidebar, modal or embed)
 olvy_organization: Fathima Riham MN
