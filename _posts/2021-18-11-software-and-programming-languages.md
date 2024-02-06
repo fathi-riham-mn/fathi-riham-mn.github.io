@@ -4,7 +4,7 @@ title:  "SOFTWARE AND PROGRAMMING LANGUAGES"
 summary: "Multi Author Support allows to create articles with different AuthorsSoftware encompasses sets of computer programs guiding hardware, while programming languages facilitate communication of instructions to computers for task execution."
 author: RihamNazeer
 date: '18-11-2021 23:42 +0530'
-category: Software, Programming, Languages, Types, Development
+category: computer science
 tags : software, programming languages, application software, system software, development, types, high-level languages, low-level languages, machine language, assembly language, computer science
 thumbnail: /assets/img/posts/code.jpg
 keywords: Software, Programming, Languages, Application Software, System Software, Development, High-Level Languages, Low-Level Languages, Machine Language, Assembly Language, Computer Science, Hardware, Instructions, Tasks, Communication
