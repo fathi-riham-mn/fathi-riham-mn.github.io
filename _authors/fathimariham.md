@@ -1,13 +1,13 @@
 ---
 name: Fathima Riham MN
 username: Riham Nazeer
-bio: "Hi I a John, a Web Developer and Designer."
+bio: ""
 site: 
 avatar: profile.png
-email: mail@johndoe.com
+email: nazeerreeha@gmail.com
 social:
     - title: "github"
-      url: "https://github.com/johndoe"
+      url: "https://github.com/fathi-riham-mn"
     - title: "linkedin"
       url: "https://www.linkedin.com/in/johndoe"
     - title: "facebook"

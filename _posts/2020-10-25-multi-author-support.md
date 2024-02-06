@@ -1,143 +1,48 @@
 ---
 layout: post
-title:  "Added Multi Author Support"
-summary: "Multi Author Support allows to create articles with different Authors"
-author: xplor4r
-date: '2020-10-25 1:35:23 +0530'
-category: jekyll
+title:  "SOFTWARE AND PROGRAMMING LANGUAGES"
+summary: "Multi Author Support allows to create articles with different AuthorsSoftware encompasses sets of computer programs guiding hardware, while programming languages facilitate communication of instructions to computers for task execution."
+author: Fathima Riham MN
+date: '18-11-2021 23:42 +0530'
+category: Software, Programming, Languages, Types, Development
+tags : software, programming languages, application software, system software, development, types, high-level languages, low-level languages, machine language, assembly language, computer science
 thumbnail: /assets/img/posts/code.jpg
-keywords: devlopr jekyll, how to use devlopr, devlopr, how to use devlopr-jekyll, devlopr-jekyll tutorial,best jekyll themes, multi author
+keywords: Software, Programming, Languages, Application Software, System Software, Development, High-Level Languages, Low-Level Languages, Machine Language, Assembly Language, Computer Science, Hardware, Instructions, Tasks, Communication
 usemathjax: true
-permalink: /blog/added-multi-author-support/
+permalink: /blog/software-and-programming-languages/
 ---
 
-## Now Multiple Authors Can Create Articles:
+# SOFTWARE AND PROGRAMMING LANGUAGES
 
-You can now create or collaborate with multiple authors,Especially when you are working with teams. Each author will have a unique page of her written articles also her profile widget in Articles written by his/her.
+## SOFTWARE
 
-For this every Author needs to have a unique username (without space) For eg. If Author is John Doe - the username should be **johndoe** or **john-doe** (without space).This key will be used by devlopr, to fetch individual author's profile pages internally.
+### What is Software?
 
-### Configuring Authors :
+Software refers to the set of computer programs and procedures that dictate how these programs are utilized. It encompasses a collection of instructions designed to be executed by a computer system, enabling it to perform specific tasks. In essence, software enhances the capabilities of hardware by guiding the computer through various operations. Software development, also known as programming, involves creating these sets of instructions.
 
-Under _authors folder create a author details file (username.md) with his/her username (as described above). For eg. **johndoe.md**.
+Software and hardware are complementary components of a computer system, working together to produce meaningful results. While hardware provides the physical infrastructure, software directs its operations.
 
-Then add this frontmatter to describe the author in **johndoe.md**.
-```yml
----
-name: John Doe # Name of the Author
-username: johndoe # Username of the Author
-bio: "Hi I a John, a Web Developer and Designer." # Author Bio
-site: http://johndoe.com  # Author Website URL
-avatar: johndoe.png  # Profile Image (img path will be /assets/img/authors/johndoe.png)
-email: mail@johndoe.com  # Author Email address
-social:  # Author Social profile links
-    - title: "github"
-      url: "https://github.com/johndoe"
-    - title: "linkedin"
-      url: "https://www.linkedin.com/in/johndoe"
-    - title: "youtube"
-      url: "https://www.youtube.com/channel/UCSfLBFFfNU9r6ihfei6VeJw"
-    - title: "facebook"
-      url: "https://www.facebook.com/johndoe"
-    - title: "twitter"
-      url: "https://www.twitter.com/johndoe"
-    - title: "behance"
-      url: "https://behance.com/johndoe"
-    - title: "instagram"
-      url: "https://instagram.com/johndoe"
-    - title: "medium"
-      url: "https://medium.com/johndoe"
-    - title: "telegram"
-      url: "https://telegram.com/johndoe"
-    - title: "dribbble"
-      url: "https://dribbble.com/johndoe"
-    - title: "flickr"
-      url: "https://flickr.com/johndoe"
----
-```
-You can create multiple authors similarly under _authors
+### Types of Software:
 
-Next, copy the same frontmatter in _data/authors.yml (under individual author usernames) like this :
+**Application Software:** Application software consists of programs tailored to perform specific tasks for computer users, such as accounting, inventory management, or word processing. It is developed using high-level programming languages to facilitate user interaction and task completion. Application software can be further categorized into customized packages, tailored for specific users or purposes, and generalized packages, designed for broader application across different contexts.
 
-```yml
-# Author 1
-johndoe:
-   name: John Doe
-   username: johndoe
-   site: http://johndoe.com
-   avatar: johndoe.png
-   bio: "Hi I a John, a Web Developer and Designer."
-   email: mail@johndoe.com
-   social:
-      - title: "github"
-        url: "https://github.com/johndoe"
-      - title: "linkedin"
-        url: "https://www.linkedin.com/in/johndoe"
-      - title: "youtube"
-        url: "https://www.youtube.com/channel/UCSfLBFFfNU9r6ihfei6VeJw"
-      - title: "facebook"
-        url: "https://www.facebook.com/johndoe"
-      - title: "twitter"
-        url: "https://www.twitter.com/johndoe"
-      - title: "behance"
-        url: "https://behance.com/johndoe"
-      - title: "instagram"
-        url: "https://instagram.com/johndoe"
-      - title: "medium"
-        url: "https://medium.com/johndoe"
-      - title: "telegram"
-        url: "https://telegram.com/johndoe"
-      - title: "dribbble"
-        url: "https://dribbble.com/johndoe"
-      - title: "flickr"
-        url: "https://flickr.com/johndoe"
+**System Software:** System software comprises programs responsible for managing and controlling the overall operations of a computer system. It serves as an intermediary between hardware and application software, facilitating communication and coordination between various system components. Examples of system software include operating systems like DOS, UNIX, and Windows, as well as language compilers and interpreters.
 
-# Author 2
-janedoe:
-   name: Jane Doe
-   username: janedoe
-   site: https://janedoe.com
-   avatar: jane.png
-   bio: "Designer"
-   email: mail@janedoe.com
-   social:
-      - title: "github"
-        url: "https://github.com/janedoe"
-      - title: "linkedin"
-        url: "https://www.linkedin.com/janedoe"
-      - title: "youtube"
-        url: "https://www.youtube.com/channel/UCSfLBFFfNU9r6ihfei6VeJw"
-      - title: "facebook"
-        url: "https://www.facebook.com/janedoe"
+## PROGRAMMING LANGUAGES
 
-```
+### What is a Programming Language?
 
-Likewise ! This will be helpful for the widgets. (About Author, Recent Articles).
+A programming language is a formalized system of communication used to write instructions for computers to execute specific tasks. Unlike natural languages, programming languages are designed to be understood by computers, enabling users to convey data and commands effectively. Examples of programming languages include FORTRAN, BASIC, and COBOL, each tailored for different types of applications and problem domains.
 
-### Adding Author to Post
+### Types of Programming Languages:
 
-When creating a new post, just add the author in frontmatter using the username of the author
+**Low-Level Languages:**
 
-For eg, In 2020-10-24-demo-article.md
-```yml
----
-layout: post
-title: "Demo Article"
-author: janedoe
----
-This is Jane Doe's Article
-```
+Machine Language: Machine language consists of binary code understood directly by computers. It is highly efficient but challenging to write and debug due to its complexity.
+Assembly Language: Assembly language employs symbolic codes to represent machine instructions, making programming more manageable compared to machine language. An assembler translates assembly language programs into machine code for execution.
+**High-Level Languages:**
+High-level languages use human-readable syntax and abstract concepts, making them more user-friendly and easier to understand than low-level languages. Examples include COBOL, FORTRAN, and BASIC. High-level languages require translation into machine code for computer execution but offer advantages such as ease of learning, debugging, and platform independence.
 
-Now there will be Authors widget in Blog Sidebar, showing all authors like this :
-
-![Author Sidebar Widget](https://res.cloudinary.com/sujaykundu/image/upload/c_scale,fl_progressive,w_400/v1603700133/3_tiuar0.png)
-
-Also a Author Profile Page will be created for Jane Doe to showcase her written articles.
-
-![Author Page](https://res.cloudinary.com/sujaykundu/image/upload/c_scale,fl_progressive,w_400/v1603643237/1_ee3yke.png)
-
-Also, below this article you can see the Author Profile Card , who has written the article too ! ;)
-
-Cheers ! Hope You enjoy this new feature. :D
+**software encompasses the programs and procedures that enable computers to perform tasks, while programming languages serve as tools for communicating instructions to computers. Understanding the different types of software and programming languages is essential for effective software development and computer operation.**
 
 
