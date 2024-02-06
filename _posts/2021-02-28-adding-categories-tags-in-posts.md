@@ -55,3 +55,4 @@ Use comparison as motivation to improve yourself authentically. Channel your ene
 Breaking free from the habit of comparing ourselves to others is essential for personal growth and well-being. By cultivating gratitude, setting meaningful goals, and embracing our unique journey, we can transcend the limitations of comparison and lead more fulfilling lives. Let us embark on this journey together, supporting one another in our quest for self-discovery and authenticity.
 
 **Thank you for joining us on this transformative journey. May you find peace, fulfillment, and joy as you embrace your true self and celebrate your individuality.**
+
