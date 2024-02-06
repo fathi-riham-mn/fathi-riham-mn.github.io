@@ -1,18 +1,18 @@
 ---
 layout: post
-title:  "Adding Multiple Categories in Posts"
-summary: "Learn how to add categories in posts"
-author: xplor4r
-date: '2021-02-28 1:35:23 +0530'
-category: ['jekyll','guides', 'sample_category']
-tags: jekyll
+title:  " To Overcome Challenges, Stop Comparing yourself to Other"
+summary: "overcoming comparison to foster personal growth happiness, emphasizing gratitude and self-awareness."
+author: Fathima Riham MN
+date: '20-10-2021 02:07 +0530'
+category: ['Self-Improvement','Mental Health', 'Personal Growth','Positive Thinking']
+tags: comparison
 thumbnail: /assets/img/posts/code.jpg
-keywords: devlopr jekyll, how to use devlopr, devlopr, how to use devlopr-jekyll, devlopr-jekyll tutorial,best jekyll themes, multi categories and tags
+keywords: Comparison, Self-worth, Gratitude, Personal Growth, Motivation
 usemathjax: false
-permalink: /blog/adding-categories-tags-in-posts/
+permalink: /blog/to-overcome-challenges/
 ---
 
-## Adding Multiple Categories in Posts
+##  To Overcome Challenges, Stop Comparing yourself to Other 
 
 To add categories in blog posts all you have to do is add a **category** key with category values in frontmatter of the post :
 
