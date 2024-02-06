@@ -2,19 +2,14 @@
 layout: post
 title:  " Creating and Pushing Projects to GitHub"
 summary: Writing Equations using Latex
-author: 
+author: RihamNazeer
 date: '2020-10-24 10:35:23 +0530'
 tags: 
 category: 
 thumbnail: /assets/img/posts/code.jpg
 keywords: GitHub
 Version Control
-Git Basics
-Collaboration
-Project Management
-Software Development
-Code Sharing
-Git Commands, GitHub Repository, Developer Tools
+Git Basics, Collaboration, Project Management, Software Development, Code Sharing, Git Commands, GitHub Repository, Developer Tools
 usemathjax: true
 permalink: /blog/creating-and-pushing-to-github/
 ---

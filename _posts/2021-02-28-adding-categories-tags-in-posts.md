@@ -2,7 +2,7 @@
 layout: post
 title:  " To Overcome Challenges, Stop Comparing yourself to Other"
 summary: "overcoming comparison to foster personal growth happiness, emphasizing gratitude and self-awareness."
-author: Fathima Riham MN
+author: RihamNazeer
 date: '20-10-2021 02:07 +0530'
 category: ['Self-Improvement','Mental Health', 'Personal Growth','Positive Thinking']
 tags: comparison

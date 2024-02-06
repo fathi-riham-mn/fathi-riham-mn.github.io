@@ -1,6 +1,6 @@
 ---
 name: Fathima Riham MN
-username: Riham Nazeer
+username: RihamNazeer
 bio: ""
 site: 
 avatar: profile.png
