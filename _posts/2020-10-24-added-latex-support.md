@@ -1,15 +1,13 @@
 ---
 layout: post
 title:  " Creating and Pushing Projects to GitHub"
-summary: Writing Equations using Latex
+summary: "step-by-step tutorial for developers on how to create and push projects to GitHub, facilitating effective collaboration and version control in software development."
 author: RihamNazeer
 date: '2020-10-24 10:35:23 +0530'
-tags: 
-category: 
+tags: GitHub, Version Control, Collaboration, Git Basics, Project Management, Software Development, Developer Tools, GitHub Repository, Code Sharing, Git Commands
+category: GitHub Tutorials
 thumbnail: /assets/img/posts/code.jpg
-keywords: GitHub
-Version Control
-Git Basics, Collaboration, Project Management, Software Development, Code Sharing, Git Commands, GitHub Repository, Developer Tools
+keywords: GitHub,Version Control,Git Basics, Collaboration, Project Management, Software Development, Code Sharing, Git Commands, GitHub Repository, Developer Tools
 usemathjax: true
 permalink: /blog/creating-and-pushing-to-github/
 ---
