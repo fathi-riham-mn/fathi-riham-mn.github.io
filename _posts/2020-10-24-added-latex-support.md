@@ -1,34 +1,96 @@
 ---
 layout: post
-title:  "Added Latex Support"
+title:  " Creating and Pushing Projects to GitHub"
 summary: Writing Equations using Latex
-author: xplor4r
+author: 
 date: '2020-10-24 10:35:23 +0530'
-category: jekyll
+tags: 
+category: 
 thumbnail: /assets/img/posts/code.jpg
-keywords: devlopr jekyll, how to use devlopr, devlopr, how to use devlopr-jekyll, devlopr-jekyll tutorial,best jekyll themes
+keywords: GitHub
+Version Control
+Git Basics
+Collaboration
+Project Management
+Software Development
+Code Sharing
+Git Commands, GitHub Repository, Developer Tools
 usemathjax: true
-permalink: /blog/added-latex-equations-support/
+permalink: /blog/creating-and-pushing-to-github/
 ---
 
-## You can now use LaTex to write equations :
+## Step-by-Step Guide: Creating and Pushing Projects to GitHub
 
-In the frontmatter of the article add this :
+In today's interconnected world, GitHub has become the go-to platform for developers to collaborate, share code, and manage version control. In this step-by-step guide, we'll walk through the process of creating and pushing projects to GitHub, empowering you to share your work with the world.
 
-`usemathjax: true`
+**Step 1: Set Up Your GitHub Account**
 
-After that, simply wrap the math symbols of your article with two double-dollar sign $$:
+Before you can start sharing projects on GitHub, you need to create an account. Visit github.com and follow the simple sign-up process. Once registered, you're ready to begin.
 
-For Example :
+**Step 2: Install Git**
 
-- use this `$$E=mc^2$$`
+Git is the version control system that underpins GitHub. Install Git on your local machine by downloading the appropriate installer for your operating system from git-scm.com. Follow the installation instructions provided.
 
-You should be able to see it in your post as: $$E=mc^2$$
+**Step 3: Configure Git**
 
- use `$$mean = \frac{\displaystyle\sum_{i=1}^{n} x_{i}}{n}$$` to write :
+After installing Git, configure it with your name and email address. Open a terminal or command prompt and enter the following commands, replacing "Your Name" and "your.email@example.com" with your actual name and email:
 
-$$mean = \frac{\displaystyle\sum_{i=1}^{n} x_{i}}{n}$$
+```
+git config --global user.name "Your Name"
+git config --global user.email "your.email@example.com"
+```
 
-- Use `k_{n+1} = n^2 + k_n^2 - k_{n-1}` to write
+**Step 4: Create a New Repository**
 
-$$k_{n+1} = n^2 + k_n^2 - k_{n-1}$$
+Navigate to your GitHub dashboard and click on the "New" button to create a new repository. Give your repository a name, description, and choose whether it should be public or private. Click "Create repository" to finalize.
+
+**Step 5: Initialize Your Local Repository**
+
+On your local machine, navigate to the directory where you want to create your project. Open a terminal or command prompt and run the following command to initialize a new Git repository:
+
+```
+git init
+```
+
+**Step 6: Add Your Files**
+
+Add your project files to the Git repository by running the following command:
+
+```
+git add .
+```
+
+This command stages all files in the current directory for commit.
+
+**Step 7: Commit Your Changes**
+
+Commit your changes to the local repository with a descriptive message using the following command:
+
+```
+git commit -m "Initial commit"
+```
+
+Replace "Initial commit" with a meaningful message describing the changes you've made.
+
+**Step 8: Link Your Local Repository to GitHub**
+
+Link your local Git repository to the GitHub repository you created earlier. Copy the repository's URL from GitHub and run the following command in your terminal:
+
+```
+git remote add origin <repository-url>
+```
+
+Replace `<repository-url>` with the URL of your GitHub repository.
+
+**Step 9: Push Your Changes to GitHub**
+
+Finally, push your committed changes to GitHub using the following command:
+
+```
+git push -u origin master
+```
+
+This command pushes your changes from the local `master` branch to the remote `origin` repository on GitHub.
+
+
+Congratulations! You've successfully created and pushed your project to GitHub. By following these steps, you can easily share your code with collaborators and contribute to the vibrant developer community on GitHub. Keep exploring the platform's features and collaborating with fellow developers to take your projects to new heights. Happy coding!

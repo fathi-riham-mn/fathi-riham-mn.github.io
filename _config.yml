@@ -15,8 +15,8 @@ urls:
       url: /blog
     - text: Projects
       url: /project
-    - text: Shop
-      url : /shop
+    - text: Certficate
+      url : /Certficate
     - text: What I Do
       url: /what_i_do
     - text: Contact
@@ -53,12 +53,12 @@ author_education_details:
 
 # Projects
 author_project_details:
-              - project_thumbnail: gamershub.png
+              - project_thumbnail: 
                 project_title: Task Management App
                 project_description: A Platform built for Gamers and Game Devs
                 project_url: https://task-management-app-peach.vercel.app/
                 visibility: true
-              - project_thumbnail: hack4r.PNG
+              - project_thumbnail: 
                 project_title: School Student Management System
                 project_description: A Platform built for Hackers and Penetration Testers
                 project_url: https://github.com/fathi-riham-mn/School-Student-Management-System
