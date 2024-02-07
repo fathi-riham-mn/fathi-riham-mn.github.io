@@ -14,9 +14,9 @@ urls:
     - text: Blog
       url: /blog
     - text: Projects
-      url: /project
+      url: /projects
     - text: Certficate
-      url : /Certficate
+      url : /certficate
     - text: What I Do
       url: /what_i_do
     - text: Contact
@@ -133,7 +133,7 @@ collections:
 defaults:
   -
     scope:
-      path: "gallery"
+      path: "certificate"
     values:
       permalink: /:path/:basename:output_ext
   -
