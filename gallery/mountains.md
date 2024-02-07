@@ -1,6 +1,6 @@
 ---
 layout: certificate
-title: Certificate
+title: Collection
 ---
 
-{% include certificate-layout.html certificates=site.data.certificates.certificates %}
+{% include certificate-layout.html certificate=site.data.galleries.mountains %}

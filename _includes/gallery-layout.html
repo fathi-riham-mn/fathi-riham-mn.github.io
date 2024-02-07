@@ -1,6 +1,6 @@
  <!-- Single certificate -->
   <div class="col-lg-12">
-    <div id="imagecertificate{% if include.id_number %}-{{ include.id_number }}{% endif %}">
+    <div id="imageCertificate{% if include.id_number %}-{{ include.id_number }}{% endif %}">
       <div id="certificate-sizer{% if include.id_number %}-{{ include.id_number }}{% endif %}"></div>
       {% for picture in include.certificate.pictures %}
         <a href="{{ site.url }}{{ site.baseurl }}/assets/img/certificate/{{ include.certificate.picture_path }}/{{ picture.original }}"
@@ -13,7 +13,7 @@
   </div>
 <script type="text/javascript">
     $(document).ready(function() {
-        $("#imagecertificate").lightcertificate({
+        $("#imageCertificate").lightCertificate({
           thumbnail: false,
           selector: '.image'
         });

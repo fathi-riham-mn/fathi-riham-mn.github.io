@@ -15,8 +15,8 @@ urls:
       url: /blog
     - text: Projects
       url: /projects
-    - text: Certficate
-      url : /certficate
+    - text: Certificate
+      url : /certificate
     - text: Contact
       url : /contact
 

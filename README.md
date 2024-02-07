@@ -17,7 +17,7 @@ Highly Customizable and No Hosting or Maintainence Cost is required !
 
 ![devlopr jekyll](https://github.com/sujaykundu777/devlopr-jekyll/blob/master/assets/img/screenshot.PNG?raw=true)
 
-devlopr uses Markdown Files to generate data like Blog Posts, certificate, Shop Products etc. No external database is required.
+devlopr uses Markdown Files to generate data like Blog Posts, certificate. No external database is required.
 
 
 ### Launch your Static Site using Devlopr in minutes :rocket:
