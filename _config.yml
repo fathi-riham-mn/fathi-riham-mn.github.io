@@ -17,8 +17,6 @@ urls:
       url: /projects
     - text: Certficate
       url : /certficate
-    - text: What I Do
-      url: /what_i_do
     - text: Contact
       url : /contact
 
@@ -58,7 +56,7 @@ author_project_details:
                 project_description: A Platform built for Gamers and Game Devs
                 project_url: https://task-management-app-peach.vercel.app/
                 visibility: true
-              - project_thumbnail: ssm.png
+              - project_thumbnail: hack4r.png
                 project_title: School Student Management System
                 project_description: A Platform built for Hackers and Penetration Testers
                 project_url: https://github.com/fathi-riham-mn/School-Student-Management-System
@@ -197,7 +195,7 @@ exclude:
   - assets/bower_components/font-awesome/advanced-options/use-with-node-js/fontawesome-svg-core/README.md
   - assets/bower_components/ghosthunter/README.md
   - assets/bower_components/nanobar/README.md
-  - assets/bower_components/lightgallery/demo/README.md
+  - assets/bower_components/lightcertificate/demo/README.md
   - assets/bower_components/font-awesome/advanced-options/use-with-node-js/free-brands-svg-icons/README.md
   - assets/bower_components/font-awesome/advanced-options/use-with-node-js/free-solid-svg-icons/README.md
   - assets/bower_components/jquery-mousewheel/README.md
@@ -214,7 +212,7 @@ exclude:
   - assets/bower_components/font-awesome/advanced-options/use-with-node-js/fontawesome-free-brands/README.md
   - assets/bower_components/font-awesome/advanced-options/use-with-node-js/fontawesome-common-types/README.md
   - assets/bower_components/ghosthunter/example/Index.html
-  - assets/bower_components/lightgallery/test/lightgallery.html
+  - assets/bower_components/lightcertificate/test/lightcertificate.html
   - assets/bower_components/masonry-layout/README.md
   - assets/bower_components/imagesloaded/README.md
 

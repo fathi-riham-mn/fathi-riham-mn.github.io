@@ -1,5 +1,5 @@
 ---
-layout: gallery
+layout: certificate
 title: Certificate
 ---
 

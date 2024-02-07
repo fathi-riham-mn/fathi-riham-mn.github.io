@@ -1,19 +1,19 @@
- <!-- Single Gallery -->
+ <!-- Single certificate -->
   <div class="col-lg-12">
-    <div id="imageGallery{% if include.id_number %}-{{ include.id_number }}{% endif %}">
-      <div id="gallery-sizer{% if include.id_number %}-{{ include.id_number }}{% endif %}"></div>
-      {% for picture in include.gallery.pictures %}
-        <a href="{{ site.url }}{{ site.baseurl }}/assets/img/gallery/{{ include.gallery.picture_path }}/{{ picture.original }}"
-        data-responsive="{% for size in picture.sizes %} {{ site.url}}{{ site.baseurl }}/assets/gallery/{{ include.gallery.picture_path }}/{{ size }}{% endfor %}" class="image"
+    <div id="imagecertificate{% if include.id_number %}-{{ include.id_number }}{% endif %}">
+      <div id="certificate-sizer{% if include.id_number %}-{{ include.id_number }}{% endif %}"></div>
+      {% for picture in include.certificate.pictures %}
+        <a href="{{ site.url }}{{ site.baseurl }}/assets/img/certificate/{{ include.certificate.picture_path }}/{{ picture.original }}"
+        data-responsive="{% for size in picture.sizes %} {{ site.url}}{{ site.baseurl }}/assets/certificate/{{ include.certificate.picture_path }}/{{ size }}{% endfor %}" class="image"
         {% if picture.title %} data-sub-html="<div class='lg-toolbar caption'><h4>{{ picture.title | escape }}</h4>{% if picture.caption %}<p>{{ picture.caption | escape }}</p>{% endif %}</div>"{% endif %}>
-          <img alt="{{ picture.title }}" class="img-thumbnail" src="{{ site.url }}{{ site.baseurl }}/assets/img/gallery/{{ include.gallery.picture_path }}/{{ picture.thumbnail }}" />
+          <img alt="{{ picture.title }}" class="img-thumbnail" src="{{ site.url }}{{ site.baseurl }}/assets/img/certificate/{{ include.certificate.picture_path }}/{{ picture.thumbnail }}" />
         </a>
       {% endfor %}
       </div>
   </div>
 <script type="text/javascript">
     $(document).ready(function() {
-        $("#imageGallery").lightGallery({
+        $("#imagecertificate").lightcertificate({
           thumbnail: false,
           selector: '.image'
         });
