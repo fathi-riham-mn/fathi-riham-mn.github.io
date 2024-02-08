@@ -1,6 +1,6 @@
 ---
 layout: certificate
-title: certi
+title: Certi
 ---
 
 {% include certificate-layout.html certificate=site.data.certificates.certi %}
