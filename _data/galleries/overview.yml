@@ -7,13 +7,21 @@
 #    sizes:
 #    - 1-thumbnail.jpg
 #    thumbnail: 1-thumbnail.jpg
-
 -
   title: Certificates
   directory: certificates
   preview:
-    filename: c01.png
-    original: c01.png
+    filename: diploma-apple-fullstack.png
+    original: diploma-apple-fullstack.png
     sizes:
-    - c01.png
-    thumbnail: c01.png
+    - diploma-apple-fullstack.png
+    thumbnail: diploma-apple-fullstack.png
+-
+  title: Hobbies
+  directory: hobbies
+  preview:
+    filename: instruments.jpeg
+    original: instruments.jpeg
+    sizes:
+    - instruments.jpeg
+    thumbnail: instruments.jpeg

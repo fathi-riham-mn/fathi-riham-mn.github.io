@@ -1,63 +1,63 @@
 picture_path: certificates
 preview:
- filename: c01.png
-  original: c01.png
+  filename: diploma-apple-fullstack
+  original: diploma-apple-fullstack.png
   sizes:
-  - c01.png
-  thumbnail: c01.png
+  - diploma-apple-fullstack.png
+  thumbnail: diploma-apple-fullstack.png
 pictures:
-- filename: c01.png
-  original: c01.png
+- filename: diploma-apple-fullstack
+  original: diploma-apple-fullstack.png
   sizes:
-  - c01.png
-  thumbnail: c01.png
-- filename: c02.png
-  original: c02.png
+  - diploma-apple-fullstack.png
+  thumbnail: diploma-apple-fullstack.png
+- filename: diploma-git-github
+  original: diploma-git-github.png
   sizes:
-  - c02.png
-  thumbnail: c02.png
-- filename: c03.png
-  original: c03.png
+  - diploma-git-github.png
+  thumbnail: diploma-git-github.png
+- filename: diploma-basico-javascript
+  original: diploma-basico-javascript.png
   sizes:
-  - c03.png
-  thumbnail: c03.png
-- filename: c04.png
-  original: c04.png
+  - diploma-basico-javascript.png
+  thumbnail: diploma-basico-javascript.png
+- filename: diploma-game-maker
+  original: diploma-game-maker.png
   sizes:
-  - c04.png
-  thumbnail: c04.png
-- filename: c05.png
-  original: c05.png
+  - diploma-game-maker.png
+  thumbnail: diploma-game-maker.png
+- filename: diploma-apple-watch
+  original: diploma-apple-watch.png
   sizes:
-  - c05.png
-  thumbnail: c05.png
-- filename: c06.png
-  original: c06.png
+  - diploma-apple-watch.png
+  thumbnail: diploma-apple-watch.png
+- filename: diploma-ingenieria
+  original: diploma-ingenieria.png
   sizes:
-  - c06.png
-  thumbnail: c06.png
-- filename: c07.png
-  original: c07.png
+  - diploma-ingenieria.png
+  thumbnail: diploma-ingenieria.png
+- filename: diploma-java-basico
+  original: diploma-java-basico.png
   sizes:
-  - c07.png
-  thumbnail: c07.png
-filename: c08.png
-  original: c08.png
+  - diploma-java-basico.png
+  thumbnail: diploma-java-basico.png
+- filename: diploma-java-oop
+  original: diploma-java-oop.png
   sizes:
-  - c08.png
-  thumbnail: c08.png
-- filename: c09.png
-  original: c09.png
+  - diploma-java-oop.png
+  thumbnail: diploma-java-oop.png
+- filename: diploma-swiftui-apps-ios
+  original: diploma-swiftui-apps-ios.png
   sizes:
-  - c09.png
-  thumbnail: c09.png
-- filename: c10.png
-  original: c10.png
+  - diploma-swiftui-apps-ios.png
+  thumbnail: diploma-swiftui-apps-ios.png
+- filename: diploma-terminal
+  original: diploma-terminal.png
   sizes:
-  - c10.png
-  thumbnail: c10.png
-- filename: c11.png
-  original: c11.png
+  - diploma-terminal.png
+  thumbnail: diploma-terminal.png
+- filename: english
+  original: english.png
   sizes:
-  - c11.png
-  thumbnail: c11.png
+  - english.png
+  thumbnail: english.png
