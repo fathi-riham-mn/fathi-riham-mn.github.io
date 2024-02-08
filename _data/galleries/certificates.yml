@@ -61,3 +61,8 @@ pictures:
   sizes:
   - english.png
   thumbnail: english.png
+- filename: c01
+  original: c01.png
+  sizes:
+  - c01.png
+  thumbnail: c01.png
