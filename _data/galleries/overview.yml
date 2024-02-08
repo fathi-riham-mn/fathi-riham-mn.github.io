@@ -7,3 +7,13 @@
     sizes:
     - 1-thumbnail.jpg
     thumbnail: 1-thumbnail.jpg
+
+-
+  title: Certificates
+  directory: certificates
+  preview:
+    filename: c01.png
+    original: c01.png
+    sizes:
+    - c01.png
+    thumbnail: c01.png

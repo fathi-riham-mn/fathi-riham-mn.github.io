@@ -1,0 +1,59 @@
+picture_path: certificates
+preview:
+  filename: c01
+  original: c01.png
+  sizes:
+  - c01.png
+  thumbnail: c01.png
+pictures:
+- filename: c02
+  original: c02.png
+  sizes:
+  - c02.png
+  thumbnail: c02.png
+- filename: c03
+  original: c03.png
+  sizes:
+  - c03.png
+  thumbnail: dc03.png
+- filename: c04
+  original: c04.png
+  sizes:
+  - c04.png
+  thumbnail: c04.png
+- filename: c05
+  original: c05.png
+  sizes:
+  - c05.png
+  thumbnail: c05.png
+- filename: c06
+  original: c06.png
+  sizes:
+  - c06.png
+  thumbnail: c06.png
+- filename: c07
+  original: c07.png
+  sizes:
+  - c07.png
+  thumbnail: c07.png
+filename: c08
+  original: c08.png
+  sizes:
+  - c08.png
+  thumbnail: c08.png
+- filename: c09
+  original: c09.png
+  sizes:
+  - c09.png
+  thumbnail: dc09.png
+- filename: c10
+  original: c10.png
+  sizes:
+  - c10.png
+  thumbnail: c10.png
+- filename: c11
+  original: c11.png
+  sizes:
+  - c11.png
+  thumbnail: c11.png
+
