@@ -5,24 +5,4 @@ preview:
   sizes:
   - c01.png
   thumbnail: c01.png
-pictures:
-- filename: c02
-  original: c02.png
-  sizes:
-  - c02.png
-  thumbnail: c02.png
-- filename: c03
-  original: c03.png
-  sizes:
-  - c03.png
-  thumbnail: c03.png
-- filename: c04
-  original: c04.png
-  sizes:
-  - c04.png
-  thumbnail: c04.png
-- filename: c05
-  original: c05.png
-  sizes:
-  - c05.png
-  thumbnail: c05.png
+
