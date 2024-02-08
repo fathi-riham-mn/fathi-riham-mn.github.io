@@ -6,6 +6,11 @@ preview:
   - c01.png
   thumbnail: c01.png
 pictures:
+- filename: c01.png
+  original: c01.png
+  sizes:
+  - c01.png
+  thumbnail: c01.png
 - filename: c02.png
   original: c02.png
   sizes:
