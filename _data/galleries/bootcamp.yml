@@ -1,18 +1,18 @@
 picture_path: bootcamp
 preview:
-  filename: instruments
-  original: instruments.jpeg
+  filename: boot1
+  original:  boot1.jpg
   sizes:
-  - instruments.jpeg
-  thumbnail: instruments.jpeg
+  -  boot1.jpg
+  thumbnail: boot1.jpg
 pictures:
-- filename: instruments
-  original: instruments.jpeg
+- filename:  boot1
+  original: boot1.jpg
   sizes:
-  - instruments.jpeg
-  thumbnail: instruments.jpeg
-- filename: gym
-  original: gym.mp4
+  -  boot1.jpg
+  thumbnail:  boot1.jpg
+- filename:  boot2
+  original:  boot2.jpg
   sizes:
-  - gym.png
-  thumbnail: gym.png
+  -  boot2.jpg
+  thumbnail:  boot2.jpg
