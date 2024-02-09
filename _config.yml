@@ -33,6 +33,17 @@ typewrite-text: As an IT professional,a design-minded front-end software enginee
 hero_cover_img: sample_cover.jpg # replace this for changing homepage cover (eg. try cover.jpeg). Image should be in /assets/img
 
 
+# Experiences
+author_member_experiences:
+            - company_name: Github
+              company_logo: github.jpg
+              company_url: https://github.com/fathi-riham-mn
+              designation: Developer Program Member
+              description: I am actively contributing to many opensource projects.These contributions include bug fixes, feature requests and formulating proper documentation for project.
+              visibility: true
+            
+
+
 # Education
 author_education_details:
               - college_logo: ousl.jpg
@@ -51,14 +62,19 @@ author_education_details:
 
 # Projects
 author_project_details:
+              - project_thumbnail: ssm.png
+                project_title: School Student Management System
+                project_description: A Platform built for Hackers and Penetration Testers
+                project_url: https://github.com/fathi-riham-mn/School-Student-Management-System
+                visibility: true
               - project_thumbnail: tms.png
                 project_title: Task Management App
-                project_description: A Platform built for Gamers and Game Devs
+                project_description: This is a task management application built with Next.js, TypeScript, Tailwind CSS, and Mobx State Tree. It allows users to create, view, update, and delete tasks. The application utilizes local storage for data persistence.
                 project_url: https://task-management-app-peach.vercel.app/
                 visibility: true
               - project_thumbnail: ssm.png
                 project_title: School Student Management System
-                project_description: A Platform built for Hackers and Penetration Testers
+                project_description: School Student Management System developed by the Binary Brains Group for the Open University of Sri Lanka (OUSL)
                 project_url: https://github.com/fathi-riham-mn/School-Student-Management-System
                 visibility: true
 
