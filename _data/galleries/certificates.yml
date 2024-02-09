@@ -6,16 +6,6 @@ preview:
   - c01.png
   thumbnail: c01.png
 pictures:
-- filename: diploma-apple-fullstack
-  original: diploma-apple-fullstack.png
-  sizes:
-  - diploma-apple-fullstack.png
-  thumbnail: diploma-apple-fullstack.png
-- filename: diploma-git-github
-  original: diploma-git-github.png
-  sizes:
-  - diploma-git-github.png
-  thumbnail: diploma-git-github.png
 - filename: c01
   original: c01.png
   sizes:
