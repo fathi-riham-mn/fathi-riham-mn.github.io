@@ -1,10 +1,10 @@
 picture_path: certificates
 preview:
-  filename: diploma-apple-fullstack
-  original: diploma-apple-fullstack.png
+  filename: c01
+  original: c01.png
   sizes:
-  - diploma-apple-fullstack.png
-  thumbnail: diploma-apple-fullstack.png
+  - c01.png
+  thumbnail: c01.png
 pictures:
 - filename: diploma-apple-fullstack
   original: diploma-apple-fullstack.png
@@ -16,51 +16,6 @@ pictures:
   sizes:
   - diploma-git-github.png
   thumbnail: diploma-git-github.png
-- filename: diploma-basico-javascript
-  original: diploma-basico-javascript.png
-  sizes:
-  - diploma-basico-javascript.png
-  thumbnail: diploma-basico-javascript.png
-- filename: diploma-game-maker
-  original: diploma-game-maker.png
-  sizes:
-  - diploma-game-maker.png
-  thumbnail: diploma-game-maker.png
-- filename: diploma-apple-watch
-  original: diploma-apple-watch.png
-  sizes:
-  - diploma-apple-watch.png
-  thumbnail: diploma-apple-watch.png
-- filename: diploma-ingenieria
-  original: diploma-ingenieria.png
-  sizes:
-  - diploma-ingenieria.png
-  thumbnail: diploma-ingenieria.png
-- filename: diploma-java-basico
-  original: diploma-java-basico.png
-  sizes:
-  - diploma-java-basico.png
-  thumbnail: diploma-java-basico.png
-- filename: diploma-java-oop
-  original: diploma-java-oop.png
-  sizes:
-  - diploma-java-oop.png
-  thumbnail: diploma-java-oop.png
-- filename: diploma-swiftui-apps-ios
-  original: diploma-swiftui-apps-ios.png
-  sizes:
-  - diploma-swiftui-apps-ios.png
-  thumbnail: diploma-swiftui-apps-ios.png
-- filename: diploma-terminal
-  original: diploma-terminal.png
-  sizes:
-  - diploma-terminal.png
-  thumbnail: diploma-terminal.png
-- filename: english
-  original: english.png
-  sizes:
-  - english.png
-  thumbnail: english.png
 - filename: c01
   original: c01.png
   sizes:

@@ -11,11 +11,11 @@
   title: Certificates
   directory: certificates
   preview:
-    filename: diploma-apple-fullstack.png
-    original: diploma-apple-fullstack.png
+    filename: c01.png
+    original: c01.png
     sizes:
-    - diploma-apple-fullstack.png
-    thumbnail: diploma-apple-fullstack.png
+    - c01.png
+    thumbnail: c01.png
 -
   title: Bootcamp
   directory: bootcamp
