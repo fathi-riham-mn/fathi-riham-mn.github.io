@@ -62,9 +62,9 @@ author_education_details:
 
 # Projects
 author_project_details:
-              - project_thumbnail: ssm.png
-                project_title: School Student Management System
-                project_description: A Platform built for Hackers and Penetration Testers
+              - project_thumbnail: ins.png
+                project_title: Invoice System
+                project_description: 
                 project_url: https://github.com/fathi-riham-mn/School-Student-Management-System
                 visibility: true
               - project_thumbnail: tms.png
