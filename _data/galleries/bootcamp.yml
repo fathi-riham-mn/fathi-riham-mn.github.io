@@ -16,3 +16,8 @@ pictures:
   sizes:
   -  boot2.jpg
   thumbnail:  boot2.jpg
+- filename:  boot3
+  original:  boot3.jpg
+  sizes:
+  -  boot3.jpg
+  thumbnail:  boot3.jpg
